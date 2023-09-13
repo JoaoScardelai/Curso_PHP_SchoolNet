@@ -16,4 +16,4 @@ echo 5 ** 3;
 echo "\n";
 echo 5 ** 0;
 echo "\n";
-echo 5 % 2;
+echo 5 % 2;git lo
